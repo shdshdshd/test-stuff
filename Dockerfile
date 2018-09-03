@@ -1,5 +1,5 @@
 FROM alpine
 
-MAINTAINER me and you and him
+MAINTAINER me and 
 
 CMD ["/bin/sh  -c 'while true; sleep 1 ; done'"]
